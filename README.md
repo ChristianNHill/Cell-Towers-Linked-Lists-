@@ -1,2 +1,2 @@
 # Projects
-Class projects
+This program simulates communication between cell towers using linked lists.
